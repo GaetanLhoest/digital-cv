@@ -3,7 +3,7 @@
 #
 
 sidebar:
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
@@ -48,18 +48,15 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Passionate about new technologies and jack of all trades, I always try to always focus
+    on what is really necessary to optimise the return on investment.
+    The KISS principle best match my working philosophy.
 education:
-  - degree: MSc in Computer Science
+  - degree: Master in Computer Science
     university: University of Liege
     time: 2013 - 2015
 
-  - degree: BSc in Computer Science
+  - degree: Bachelor in Computer Science
     university: University of Liege
     time: 2010 - 2013
 
@@ -68,110 +65,86 @@ experiences:
     time: 2021 - Present
     company: Lucy in the cloud - Bruxelles
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Lucy in the cloud is a company specialised in data projects using cloud technologies.
+
+      I had the opportunity to work on several projects, assuming different positions:
+        - **Creos**: Release Manager
+
+          Handling and validating the releases, defining the release workflow and methodology, controlling the quality of the project and handling production incidents. 
+        - **Partenamut**: Data Engineers Team Manager 
+
+          Managing the Data Engineers workforce, defining workflows, maintain communication within the team and with the other department, defining technical guidelines and infrastructure. 
+        - **Gaming1**: DevOps
+
+          Implementing an IaC project to automatically deploy and update the data platform on AWS.
+        - **Orion**: Lead Developer 
+        
+          Implementing a DataVault engine solution using Python, Cloud technologies, automatic quality control and deployment.
   - role: CTO
     time: 2020 - 2021
     company: Connect2Move
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Connect2Move was a Startup specialised in mobility solutions. It ceased its activities in 2021 due to the pandemic.
+
+      During my collaboration at Connect2Move as CTO, I had the opportunity to handle the following responsabilities: 
+        - Project management, resource management and solution design.
+        - Defining, designing and supervising development for the different company's projects.
+        - Handling the monitoring, scalability and cost of the projects.
+        - Managing development team and recruitment.
   - role: Fullstack DevOps
     time: 2018 - 2020
     company: Connect2Move
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Connect2Move was a Startup specialised in mobility solutions. It ceased its activities in 2021 due to the pandemic.
+
+      I started collaborating with Connect2Move as DevOps, developping a multi-modal routing algorithm with the necessary CI/CD pipelines.
   - role: Co-founder
     time: 2019 - 2021
     company: Scanio
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      We founded Scanio to solve the issue of not being able to contact car owners when their car are involved in a problematic situation
+      (Blocking a public transport, having a broken window, ...)
+
+      We developed a solution allowing to contact car owners without revealing their personnal informations using QR codes.
   - role: Co-founder
     time: 2018 - 2021
     company: Sudosan
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      We founded Sudosan to make consultancy projects, in order to fund our own projects.
+
+      As consultancy projects, we performed:
+        - The creation of Websites
+        - The Implementation of a small API
+        - The implementation of a Webshop using Django-Oscar
   - role: Attached research developer
     time: 2016 - 2018
     company: University of Liege
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      I worked at the University of Liege in the Gemme department, with the Professor Eric Pirard.
+
+
+      I was in charge of the implementation of the AMCO European project, aiming to help visualising high definition microscope pictures of ore grinding result to evaluate morphologic values such as liberation and texture.
+      - Pickit
+
+      I worked on the interfacing of multiple censors, such as x-ray detectors or hyper-spectral cameras to analyse at high speed the aluminum alloy of metal scraps. I also implemented a real-time visualisation platform
+
   - role: ICT consultant
     time: 2015 - 2016
     company: Sopra Banking Software
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      I started my carrer at Sopra Banking Software. Sopra Banking Software provides banking solutions for the back office of banks.
+      I was is charge of supporting the production environment of multiple banks, and I also had the opportunity to work on migration project from old versions of the solution to the latest.
 
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
-
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#projects:
+#  title: Projects
+#  intro: >
+#    You can list your side projects or open source libraries in this
+#    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#  assignments:
+#    - title: Velocity
+#      link: "#hook"
+#      tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 skills:
   title: Skills &amp; Proficiency
