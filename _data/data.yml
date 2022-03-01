@@ -48,7 +48,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Passionate about new technologies and jack of all trades, I always try to always focus
+    Passionates about new technologies and jack of all trades, I always try to always focus
     on what is really necessary to optimise the return on investment.
     The KISS principle best match my working philosophy.
 education:
@@ -80,6 +80,20 @@ experiences:
         - **Orion**: Lead Developer 
         
           Implementing a DataVault engine solution using Python, Cloud technologies, automatic quality control and deployment.
+    techs:
+      - AWS
+      - Python
+      - Terraform
+      - Docker
+      - SQL
+      - Github
+      - Bash
+      - AWS Redshift
+      - AWS S3
+      - AWS IAM
+      - AWS Lambda
+      - AWS StepFunction
+
   - role: CTO
     time: 2020 - 2021
     company: Connect2Move
@@ -91,6 +105,23 @@ experiences:
         - Defining, designing and supervising development for the different company's projects.
         - Handling the monitoring, scalability and cost of the projects.
         - Managing development team and recruitment.
+    techs:
+      - AWS
+      - Python
+      - Docker
+      - C++
+      - ArangoDB
+      - Flutter
+      - Angular
+      - Gitlab
+      - Bash
+      - AWS DynamoDB
+      - AWS S3
+      - AWS API Gateway
+      - AWS Lambda
+      - AWS CloudFront
+      - AWS Cognito
+
   - role: Fullstack DevOps
     time: 2018 - 2020
     company: Connect2Move
@@ -98,6 +129,14 @@ experiences:
       Connect2Move was a Startup specialised in mobility solutions. It ceased its activities in 2021 due to the pandemic.
 
       I started collaborating with Connect2Move as DevOps, developping a multi-modal routing algorithm with the necessary CI/CD pipelines.
+    techs:
+      - AWS
+      - Python
+      - PostgreSQL
+      - JavaScript
+      - Gitlab
+      - Bash
+
   - role: Co-founder
     time: 2019 - 2021
     company: Scanio
@@ -106,6 +145,14 @@ experiences:
       (Blocking a public transport, having a broken window, ...)
 
       We developed a solution allowing to contact car owners without revealing their personnal informations using QR codes.
+    techs:
+      - Firebase
+      - Python
+      - Angular
+      - Flutter
+      - Gitlab
+      - Firestore
+
   - role: Co-founder
     time: 2018 - 2021
     company: Sudosan
@@ -116,6 +163,17 @@ experiences:
         - The creation of Websites
         - The Implementation of a small API
         - The implementation of a Webshop using Django-Oscar
+    techs:
+      - AWS
+      - Docker
+      - MongoDB
+      - Python
+      - Angular
+      - Wordpress
+      - Bash
+      - AWS API Gateway
+      - AWS Lambda
+
   - role: Attached research developer
     time: 2016 - 2018
     company: University of Liege
@@ -127,6 +185,14 @@ experiences:
       - Pickit
 
       I worked on the interfacing of multiple censors, such as x-ray detectors or hyper-spectral cameras to analyse at high speed the aluminum alloy of metal scraps. I also implemented a real-time visualisation platform
+    techs:
+      - C++
+      - Docker
+      - MongoDB
+      - Angular
+      - NodeJS
+      - Python
+      - Bash
 
   - role: ICT consultant
     time: 2015 - 2016
@@ -134,7 +200,11 @@ experiences:
     details: |
       I started my carrer at Sopra Banking Software. Sopra Banking Software provides banking solutions for the back office of banks.
       I was is charge of supporting the production environment of multiple banks, and I also had the opportunity to work on migration project from old versions of the solution to the latest.
-
+    techs:
+      - SQL
+      - COBOL
+      - Java
+      - Bash
 #projects:
 #  title: Projects
 #  intro: >

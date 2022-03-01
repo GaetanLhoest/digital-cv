@@ -176,6 +176,23 @@ p {
     margin-bottom: 60px;
   }
 
+  .tech {
+    float: left;
+    border-color: $theme-color;
+    border-style: solid;
+    color: $darker-grey;
+    border-radius: 4pt;
+    padding-right: 4pt;
+    padding-left: 4pt;
+    margin: 2pt;
+    display: flex;
+    height: 20pt;
+    line-height: 20pt;
+    text-align: center;
+  }
+  .clearBoth {
+    clear: both;
+  }
   .experiences-section,
   .educations-section {
     .item {
