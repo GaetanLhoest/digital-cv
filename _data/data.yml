@@ -180,6 +180,7 @@ experiences:
     details: |
       I worked at the University of Liege in the Gemme department, with the Professor Eric Pirard.
 
+      - AMCO
 
       I was in charge of the implementation of the AMCO European project, aiming to help visualising high definition microscope pictures of ore grinding result to evaluate morphologic values such as liberation and texture.
       - Pickit
@@ -199,7 +200,7 @@ experiences:
     company: Sopra Banking Software
     details: |
       I started my carrer at Sopra Banking Software. Sopra Banking Software provides banking solutions for the back office of banks.
-      I was is charge of supporting the production environment of multiple banks, and I also had the opportunity to work on migration project from old versions of the solution to the latest.
+      I was in charge of supporting the production environment of multiple banks, and I also had the opportunity to work on a migration project from an old version of the solution to the latest.
     techs:
       - SQL
       - COBOL
