@@ -190,6 +190,20 @@ p {
     line-height: 20pt;
     text-align: center;
   }
+  .pm {
+    float: left;
+    border-color: $lighter-theme-color;
+    border-style: solid;
+    color: $darker-grey;
+    border-radius: 4pt;
+    padding-right: 4pt;
+    padding-left: 4pt;
+    margin: 2pt;
+    display: flex;
+    height: 20pt;
+    line-height: 20pt;
+    text-align: center;
+  }
   .clearBoth {
     clear: both;
   }

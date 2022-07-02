@@ -105,6 +105,10 @@ experiences:
         - Defining, designing and supervising development for the different company's projects.
         - Handling the monitoring, scalability and cost of the projects.
         - Managing development team and recruitment.
+    pms:
+      - Project management
+      - Team management
+      - Tech lead
     techs:
       - AWS
       - Python
@@ -129,6 +133,10 @@ experiences:
       Connect2Move was a Startup specialised in mobility solutions. It ceased its activities in 2021 due to the pandemic.
 
       I started collaborating with Connect2Move as DevOps, developping a multi-modal routing algorithm with the necessary CI/CD pipelines.
+    pms:
+      - Project management
+      - Team management
+      - Tech lead
     techs:
       - AWS
       - Python
@@ -145,6 +153,8 @@ experiences:
       (Blocking a public transport, having a broken window, ...)
 
       We developed a solution allowing to contact car owners without revealing their personnal informations using QR codes.
+    pms:
+      - Project management
     techs:
       - Firebase
       - Python
@@ -163,6 +173,8 @@ experiences:
         - The creation of Websites
         - The Implementation of a small API
         - The implementation of a Webshop using Django-Oscar
+    pms:
+      - Project management
     techs:
       - AWS
       - Docker
@@ -186,6 +198,8 @@ experiences:
       - Pickit
 
       I worked on the interfacing of multiple censors, such as x-ray detectors or hyper-spectral cameras to analyse at high speed the aluminum alloy of metal scraps. I also implemented a real-time visualisation platform
+    pms:
+      - Project management
     techs:
       - C++
       - Docker

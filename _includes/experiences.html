@@ -17,31 +17,45 @@
       <div class="upper-row">
         <h3 class="job-title">{{ experience.role }}</h3>
         <div class="time">{{ experience.time }}</div>
-      </div><!--//upper-row-->
+      </div>
+      <!--//upper-row-->
 
       <div class="company">{{ experience.company }}</div>
 
-    </div><!--//meta-->
+    </div>
+    <!--//meta-->
 
     {% if experience.details %}
     <div class="details">
       {{ experience.details | markdownify }}
-    </div><!--//details-->
+    </div>
+    <!--//details-->
+    {% endif %}
+    {% if experience.pms %}
+    <div class="pms">
+      {% for pm in experience.pms %}
+      <div class="pm">
+        {{ pm | markdownify }}
+      </div>
+      {% endfor %}
+      <br class="clearBoth" />
+    </div>
     {% endif %}
     {% if experience.techs %}
-      <div class="techs">
+    <div class="techs">
       {% for tech in experience.techs %}
       <div class="tech">
         {{ tech | markdownify }}
       </div>
       {% endfor %}
       <br class="clearBoth" />
-      </div>
+    </div>
     {% endif %}
 
-  </div><!--//item-->
+  </div>
+  <!--//item-->
   {% endfor %}
 
-</section><!--//section-->
+</section>
+<!--//section-->
 {% endif %}
-
