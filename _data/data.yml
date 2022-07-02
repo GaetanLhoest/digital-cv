@@ -80,6 +80,10 @@ experiences:
         - **Orion**: Lead Developer 
         
           Implementing a DataVault engine solution using Python, Cloud technologies, automatic quality control and deployment.
+    pms:
+      - Project management
+      - Team management
+      - Tech lead
     techs:
       - AWS
       - Python
