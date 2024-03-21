@@ -68,6 +68,9 @@ experiences:
       Lucy in the cloud is a company specialised in data projects using cloud technologies.
 
       I had the opportunity to work on several projects, assuming different positions:
+        - **VOO**: Cloud architect
+          
+          Implement and deploy a Landing Zone usint AFT. Deployed Hub and Spoke architecture.
         - **Creos**: Release Manager
 
           Handling and validating the releases, defining the release workflow and methodology, controlling the quality of the project and handling production incidents. 
@@ -87,6 +90,8 @@ experiences:
     techs:
       - AWS
       - Python
+      - Kubernetes
+      - Helm
       - Terraform
       - Docker
       - SQL
