@@ -62,7 +62,30 @@ education:
 
 experiences:
   - role: DevOps / Cloud Architect
-    time: 2021 - Present
+    time: 2024 - Present
+    company: Yuzzu
+    details: |
+      Yuzzu is an insurance company from AXA's group.
+
+      I'm working on the migration from on-premise servers to AWS, designing the target cloud architecture and refactoring the application to ship them in Kubernetes.
+
+    pms:
+      - Cloud architect
+      - DevOps
+    techs:
+      - AWS
+      - Python
+      - Kubernetes
+      - Helm
+      - Terraform
+      - Docker
+      - SQL
+      - Github
+      - AWS S3
+      - AWS IAM
+      
+  - role: DevOps / Cloud Architect
+    time: 2021 - 2024
     company: Lucy in the cloud - Bruxelles
     details: |
       Lucy in the cloud is a company specialised in data projects using cloud technologies.
