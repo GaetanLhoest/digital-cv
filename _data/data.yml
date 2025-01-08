@@ -65,10 +65,9 @@ experiences:
     time: 2024 - Present
     company: Yuzzu
     details: |
-      Yuzzu is an insurance company from AXA's group.
+      Yuzzu is an insurance company that is part of the AXA Group.
 
-      I'm working on the migration from on-premise servers to AWS, designing the target cloud architecture and refactoring the application to ship them in Kubernetes.
-
+I am working on migrating from on-premise servers to AWS, designing the target cloud architecture, and refactoring the application to deploy it on Kubernetes.
     pms:
       - Cloud architect
       - DevOps
