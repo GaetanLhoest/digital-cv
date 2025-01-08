@@ -63,11 +63,11 @@ education:
 experiences:
   - role: DevOps / Cloud Architect
     time: 2024 - Present
-    company: Yuzzu
+    company: Yuzzu - Bruxelles
     details: |
       Yuzzu is an insurance company that is part of the AXA Group.
 
-I am working on migrating from on-premise servers to AWS, designing the target cloud architecture, and refactoring the application to deploy it on Kubernetes.
+      I am working on migrating from on-premise servers to AWS, designing the target cloud architecture, and refactoring the application to deploy it on Kubernetes.
     pms:
       - Cloud architect
       - DevOps
