@@ -113,6 +113,7 @@ experiences:
     techs:
       - AWS
       - Python
+      - Dbt
       - Kubernetes
       - Helm
       - Terraform
